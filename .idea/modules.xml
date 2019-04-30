@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sejongwiselibrary/sejongwiselibrary.iml" filepath="$PROJECT_DIR$/sejongwiselibrary/sejongwiselibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sjlib.iml" filepath="$PROJECT_DIR$/sjlib.iml" />
+    </modules>
+  </component>
+</project>
